@@ -93,8 +93,8 @@
 #define PIN_E E_PIN_DEFAULT
 
 
-const char* ssid = "Parlour";
-const char* pass = "BaileyBoy1";
+const char* ssid = "";
+const char* pass = "";
 const int rele = 48;
 AsyncUDP udp;
 
